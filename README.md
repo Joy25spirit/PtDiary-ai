@@ -78,7 +78,7 @@ The `patient_records` table stores:
                                       pip install mysql-connector-python ollama SpeechRecognition pyttsx3 sounddevice fpdf
 
 3. Install and run Ollama with the Llama 3 model.
-4. Create the MySQL database medical_records and table `patient_records`.
+4. Create the MySQL database `medical_records` and table `patient_records`.
 5. Update the MySQL credentials in the source code.
 6. Run:
           python ptdiary-ai.py
