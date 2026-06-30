@@ -1,10 +1,10 @@
-# PtDiary-ai
+# Swastha-ai
 
 Every Patient Has a Story. We Help Doctors Read It.
 
 ---
 
-A platform where AI guides voice based patient interview and generates downloadable PDF medical history report. 
+A platform where Swastha (AI medical assistant) guides voice based patient interview and generates downloadable PDF medical history report. 
 
 ---
 
@@ -16,7 +16,7 @@ Many patients, in rural or marginalised communities, do not have documented medi
 
 ## Solution
 
-PtDiary-AI conducts an AI-guided voice based interview to collect a patient's health history. The platform streamlines patient intake, reduces manual documentation, and helps healthcare professionals save time while maintaining organized medical records.
+Swastha-AI conducts an AI-guided voice based interview to collect a patient's health history. The platform streamlines patient intake, reduces manual documentation, and helps healthcare professionals save time while maintaining organized medical records.
 
 ---
 
@@ -46,6 +46,15 @@ PtDiary-AI conducts an AI-guided voice based interview to collect a patient's he
 * FPDF
 
 ---
+
+## Project Structure
+- ptDiary-ai.py
+- requirements.txt
+- README.md
+- database.sql
+- Sample_Report.pdf
+
+
 
 ## Project Workflow
 
