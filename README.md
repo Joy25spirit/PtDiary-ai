@@ -1,6 +1,7 @@
 # PtDiary-ai
-PtDiary-AI helps people without written medical records build their health history through guided AI voice conversations.First, it registers patient details. Then, "Swastha", AI medical assistant conducts a patient medical history interview, extracts structured health information,and generates a professional PDF report that healthcare providers can use for quicker diagnosis and treatment.
+A platform where AI guides voice based patient interview and generates downloadable PDF medical history report. 
 
+---
 
 ## Problem Statement
 
@@ -17,11 +18,14 @@ PtDiary-AI conducts an AI-guided voice based interview to collect a patient's he
 ## Features
 
 * Voice-based AI patient medical history interview
+* Patient Privacy through Local AI - Ollama (Llama 3)
+* Patient records stored locally in a MySQL database
 * Speech-to-text using Google Speech Recognition
 * Text-to-speech for patient voice responses
 * AI-powered medical information extraction 
 * Structured patient records stored in MySQL
 * Automatic PDF medical report generation
+* Historical patient records for follow-up visits
 * Manual text input fallback if speech recognition fails
 
 ---
@@ -96,4 +100,4 @@ The `patient_records` table stores:
 
 ## Project
 
-Developed as a hackathon project to demonstrate how AI can assist in reconstructing patient medical histories through natural voice conversations.
+Developed as a hackathon project to demonstrate how AI can assist in reconstructing patient medical histories through voice conversations and in generating medical history report.
