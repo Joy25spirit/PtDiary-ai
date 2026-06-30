@@ -1,4 +1,9 @@
 # PtDiary-ai
+
+Every Patient Has a Story. We Help Doctors Read It.
+
+---
+
 A platform where AI guides voice based patient interview and generates downloadable PDF medical history report. 
 
 ---
@@ -79,13 +84,13 @@ The `patient_records` table stores:
 
 1. Install Python 3.11. 
 2. Install the required libraries:
-                                      pip install mysql-connector-python ollama SpeechRecognition pyttsx3 sounddevice fpdf
+                                     `pip install mysql-connector-python ollama SpeechRecognition pyttsx3 sounddevice fpdf`
 
 3. Install and run Ollama with the Llama 3 model.
 4. Create the MySQL database `medical_records` and table `patient_records`.
 5. Update the MySQL credentials in the source code.
 6. Run:
-          python ptdiary-ai.py
+            `python ptdiary-ai.py`
 
 ---
 
