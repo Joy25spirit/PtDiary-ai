@@ -1,0 +1,8 @@
+Requirements
+---
+mysql-connector-python
+ollama
+SpeechRecognition
+pyttsx3 
+sounddevice 
+fpdf
