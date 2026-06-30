@@ -16,7 +16,7 @@ Many patients, in rural or marginalised communities, do not have documented medi
 
 ## Solution
 
-PtDiary-AI conducts an AI-guided voice based interview to collect a patient's health history. It organizes the information into a structured format, securely stores it in a database, and generates a downloadable PDF medical summary for doctors.
+PtDiary-AI conducts an AI-guided voice based interview to collect a patient's health history. The platform streamlines patient intake, reduces manual documentation, and helps healthcare professionals save time while maintaining organized medical records.
 
 ---
 
